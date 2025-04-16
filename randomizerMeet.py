@@ -7,7 +7,6 @@ app = Flask(__name__)
 entities = [
     {"title": "Trystan Carruth", "description": "Tech"},
     {"title": "Amber Kochevar", "description": "Ops"},
-    {"title": "Amy Kendall", "description": "Tech"},
     {"title": "Chelsea Mason", "description": "Ops"},
     {"title": "Heather Stevens", "description": "Ops"},
     {"title": "Kim Rowe", "description": "Ops"},
