@@ -9,7 +9,6 @@ entities = [
     {"title": "Amber Kochevar", "description": "Ops"},
     {"title": "Chelsea Mason", "description": "Ops"},
     {"title": "Heather Stevens", "description": "Ops"},
-    {"title": "Kim Rowe", "description": "Ops"},
     {"title": "Lauren Sündermann", "description": "Ops"},
     {"title": "Levi Njord", "description": "Tech"},
     {"title": "Marguerite Tuthill", "description": "Ops"},
