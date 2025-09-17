@@ -8,6 +8,7 @@ entities = [
     {"title": "Trystan Carruth", "description": "Tech"},
     {"title": "Amber Kochevar", "description": "Ops"},
     {"title": "Chelsea Mason", "description": "Ops"},
+    {"title": "Josh Ochoa", "description": "Ops"},
     {"title": "Heather Stevens", "description": "Ops"},
     {"title": "Lauren Sündermann", "description": "Ops"},
     {"title": "Levi Njord", "description": "Tech"},
@@ -190,3 +191,4 @@ def randomize():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
